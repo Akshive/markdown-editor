@@ -1,0 +1,8 @@
+.markdown-editor {
+  height: 52vh;
+  overflow-y: scroll !important;
+}
+
+textarea {
+  resize: none !important;
+}
